@@ -76,8 +76,6 @@ SQL - learned across certificate
 
 ### Files
 
-- notebooks/
-    -Lab: Bar Charts.ipynb
-- dashboards/
-    - Cognos screenshots (3 tabs)
+- notebooks: Lab: Bar Charts.ipynb
+- dashboards: Cognos screenshots (3 tabs)
 - final-presentation.pdf
