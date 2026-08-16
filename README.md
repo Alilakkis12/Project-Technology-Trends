@@ -77,16 +77,9 @@ SQL - learned across certificate
 ### Files
 
 - notebooks/
-    - 01_eda.ipynb
-    - 02_visualization.ipynb
-    - 03_capstone_final.ipynb
+    -Lab: Bar Charts
 - data/
     - survey data csv files
 - dashboards/
     - Cognos screenshots (3 tabs)
 - final-presentation.pdf
-
-### Certificate
-
-IBM Data Analyst Professional Certificate
-Coursera - 9 courses - 2026
