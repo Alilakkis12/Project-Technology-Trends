@@ -77,9 +77,7 @@ SQL - learned across certificate
 ### Files
 
 - notebooks/
-    -Lab: Bar Charts
-- data/
-    - survey data csv files
+    -Lab: Bar Charts.ipynb
 - dashboards/
     - Cognos screenshots (3 tabs)
 - final-presentation.pdf
