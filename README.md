@@ -25,7 +25,8 @@ For this capstone, data comes from:
 Required data is:
 - Languages Worked With (current year)
 - Languages Want To Work With (next year)
-- Databases Worked With / Want To Work With
+- Databases Worked With ( current year)
+- Databases Want To Work With (next year)
 - Number of respondents in each country
 - Age, education, employment demographics
 
