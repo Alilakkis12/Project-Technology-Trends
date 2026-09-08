@@ -46,11 +46,10 @@ part of this capstone pipeline.
 - Build 3 dashboards in IBM Cognos Analytics
 - Recommend what to teach
 
-### Analysis Done
+### Analysis Done  
 
-- Current Year: Top 10 LanguageWorkedWith
-- Next Year: Top 10 LanguageDesireNextYear
-- Top databases and platforms
+- Top 10 Languages, Platforms, Databases, WebFrames Worked with (Current year)
+- Top 10 Languages, Platforms, Databases, WebFrames Wanted To to work Worked With (Next year)
 - Respondents by country
 - Developer demographics dashboard
 
