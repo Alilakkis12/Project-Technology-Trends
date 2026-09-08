@@ -72,7 +72,7 @@ for jobs and future growth.
 
 Python, Jupyter, Pandas, NumPy,
 Matplotlib, IBM Cognos Analytics, Excel,
-SQL - learned across certificate
+SQL
 
 ### Files
 
