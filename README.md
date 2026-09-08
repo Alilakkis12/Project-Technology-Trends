@@ -63,7 +63,7 @@ part of this capstone pipeline.
 
 ### Final Outcome
 
-Outcome: Give data-driven advice on what
+Outcome: Gave a data-driven advice on what
 programming language to teach next.
 
 Audience: Aspiring developers, recent
