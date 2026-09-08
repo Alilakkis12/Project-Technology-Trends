@@ -54,6 +54,13 @@ part of this capstone pipeline.
 - Respondents by country
 - Developer demographics dashboard
 
+![Dashboard1.png](Dashboard1.png)
+
+![Dashboard2.png](Dashboard2.png)
+
+![Dashboard3.png](Dashboard3.png)
+
+
 ### Final Outcome
 
 Outcome: Give data-driven advice on what
