@@ -82,7 +82,8 @@ Matplotlib, IBM Cognos Analytics, Excel,
 SQL
 
 ### Files
-
+- Full pdf presentation containing the visualizations, analysis, results and key insights:
+  https://github.com/Alilakkis12/Project-Technology-Trends/blob/main/Data%20Analyst%20Capstone%20Project%20Report-compressed.pdf
 - notebooks: Lab: Bar Charts.ipynb
 - dashboards: Cognos screenshots (3 tabs)
 - final-presentation.pdf
